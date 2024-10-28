@@ -1,3 +1,3 @@
-H1# GIS 
-# Lecture code: CASA0005
-# A repositary for weekly homework fir Geographic Information Systems and Science
+# GIS 
+#Lecture code: CASA0005
+#= A repository for weekly homework for Geographic Information Systems and Science
